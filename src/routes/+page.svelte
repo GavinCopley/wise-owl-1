@@ -9,7 +9,7 @@
   });
 </script>
 
-<div class="flex min-h-screen flex-col items-center justify-center bg-amber-50 p-4 text-slate-900">
+<div class="flex flex-col items-center justify-center p-4 text-slate-900 min-h-[calc(100vh-4rem)]">
   <div class="container mx-auto flex max-w-3xl flex-col items-center justify-center space-y-8 text-center transition-all duration-700 ease-in-out {visible ? 'opacity-100' : 'opacity-0 translate-y-4'}">
     <!-- Logo/Icon -->
     <div class="mb-2">
